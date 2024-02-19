@@ -1,3 +1,3 @@
 # Portifolio v2
-Pagina de desnvolvimento base de um portifolio
-https://ornate-flan-a29da4.netlify.app
+Pagina de desnvolvimento do site DNC
+https://tourmaline-cobbler-1a08ad.netlify.app/
